@@ -1,0 +1,33 @@
+
+
+body {
+  font-size: 14px;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.row {
+  margin-bottom: 50px;
+}
+
+.page-header {
+  font-family: cursive;
+}
+
+.abstract {
+  margin-bottom: 30px;
+}
+
+.pict {
+  max-width: 300px;
+}
+
+.workitem {
+  margin-bottom: 30px;
+}
+
+footer {
+  text-align: center;
+}
